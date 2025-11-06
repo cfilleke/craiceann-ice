@@ -1,0 +1,8 @@
+- Make a branch for yourself. Call it 'david' 
+ - Start with Known Good QAOA formulation/solution/code for some much simpler problem. 
+ - Implement it in the jupyter notebook called 'qaoa.ipynb' with:
+    - tex & explanation in markdown cells
+    - qiskit in code cells
+    - generate whatever graphics help you understand what the qiskit is doing
+ - Write about what you would need to do to extend the qaoa basic problem to solve the crack network problem
+ - Describe the multi-crack problem, and possible parameterizations to get more useful information from jack's hamiltonian solutions

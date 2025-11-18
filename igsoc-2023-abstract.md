@@ -1,4 +1,4 @@
-## Ice Shelf Calving: a graph theoretic approach with quantum computing
+## Ice Shelf Calving: a graph theoretic approach with quantum computing -- published in 
 
 Calving is modeled as the joining of fracture networks when crevasses and other cracks in the ice intersect.
 While surface cracks can be minimally joined in 2D with standard flow algorithms (the graphs they form being planar),
@@ -21,3 +21,24 @@ fractures and cavities not visible at the surface to generate a proof-of-concept
 
 [5] Choi, C.Q, IBM's Quantum Leap: The Company Will Take Quantum Tech Past the 1,000-Qubit Mark in 2023, in IEEE Spectrum, vol. 60, no. 1, pp. 46-47, 2023, doi: 10.1109/MSPEC.2023.10006669.
 
+
+
+Addendum: since the publication of this abstract, a paper was published in Nature on a closely related topic that takes a similar approach:
+
+Addressing quantum’s “fine print” with efficient state preparation and information extraction for quantum algorithms and geologic fracture networks
+
+Jessie M. Henderson, John Kath, John K. Golden, Allon G. Percus & Daniel O’Malley 
+
+Scientific Reports volume 14, Article number: 3592 (2024)
+
+https://www.nature.com/articles/s41598-024-52759-0
+
+And the reference for this abstract is: A Quantum Approach to Calving: 
+
+Cheryl Fillekes
+
+DOI: 10.13140/RG.2.2.15463.97443
+
+International Symposium on The Edges of Glaciology Limerick, Ireland, 2–7 July 2023
+
+    https://www.igsoc.org/wp-content/uploads/2023/06/procabstracts_81.html#A4419
